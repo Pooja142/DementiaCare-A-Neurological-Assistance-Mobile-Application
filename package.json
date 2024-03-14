@@ -1,0 +1,49 @@
+{
+  "name": "dementia",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^13.0.0",
+    "@react-native-async-storage/async-storage": "^1.18.1",
+    "@react-navigation/bottom-tabs": "^6.5.7",
+    "@react-navigation/drawer": "^6.6.2",
+    "@react-navigation/native": "^6.1.6",
+    "@react-navigation/stack": "^6.3.16",
+    "calendar": "^0.1.1",
+    "expo": "~48.0.10",
+    "expo-av": "^13.2.1",
+    "expo-calendar": "^11.1.1",
+    "expo-camera": "^13.2.1",
+    "expo-localization": "^14.1.1",
+    "expo-location": "^15.1.1",
+    "expo-media-library": "^15.2.3",
+    "expo-sharing": "^11.2.2",
+    "expo-status-bar": "~1.4.4",
+    "immer": "^9.0.21",
+    "link": "^1.5.1",
+    "moment": "^2.29.4",
+    "react": "18.2.0",
+    "react-native": "^0.71.6",
+    "react-native-calendar-strip": "^2.2.6",
+    "react-native-calendars": "^1.1294.0",
+    "react-native-geolocation-service": "^5.3.1",
+    "react-native-gesture-handler": "^2.9.0",
+    "react-native-maps": "^1.4.0",
+    "react-native-modal-datetime-picker": "^14.0.1",
+    "react-native-reanimated": "^3.0.2",
+    "zustand": "^4.3.7",
+    "typescript": "^4.9.4",
+    "@types/react": "~18.0.27",
+    "expo-updates": "~0.16.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
